@@ -1,0 +1,1 @@
+{"description":"Proxy gratis (Render free tier) para la consulta de cedula de la app web Panamerican. El token de socket-studio vive solo en la variable de entorno SOCKET_TOKEN.","engines":{"node":">=18"},"main":"server.js","name":"panamerican-cedula-proxy","private":true,"scripts":{"start":"node server.js"},"version":"1.0.0"}
